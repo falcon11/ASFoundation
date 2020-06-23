@@ -8,6 +8,7 @@
 #ifndef ASFoundation_h
 #define ASFoundation_h
 
+// Pods
 #import <AFNetworking/AFNetworking.h>
 #import <CocoaLumberjack/CocoaLumberjack.h>
 #import <CTMediator/CTMediator.h>
@@ -19,5 +20,9 @@
 #import <MJRefresh/MJRefresh.h>
 #import <ReactiveObjC/ReactiveObjC.h>
 #import <SDWebImage/SDWebImage.h>
+
+// Base
+#import "ASBaseViewController.h"
+#import "ASBaseNavigationController.h"
 
 #endif /* ASFoundation_h */
