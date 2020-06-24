@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASFoundation'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'A short description of ASFoundation.'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Objective-C iOS project common use third party pods and classes
                        DESC
 
   s.homepage         = 'https://github.com/falcon11/ASFoundation'
