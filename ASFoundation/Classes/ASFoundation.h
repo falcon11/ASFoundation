@@ -22,8 +22,7 @@
 #import <SDWebImage/SDWebImage.h>
 
 // Base
-#import "ASBaseViewController.h"
-#import "ASBaseNavigationController.h"
+#import "Base.h"
 
 // Categories
 #import "ASCategories.h"
