@@ -25,4 +25,7 @@
 #import "ASBaseViewController.h"
 #import "ASBaseNavigationController.h"
 
+// Categories
+#import "ASCategories.h"
+
 #endif /* ASFoundation_h */
