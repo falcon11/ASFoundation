@@ -9,5 +9,6 @@
 #define ASCategories_h
 
 #import "UIDevice+ASHardware.h"
+#import "UIFont+ASFont.h"
 
 #endif /* ASCategories_h */
