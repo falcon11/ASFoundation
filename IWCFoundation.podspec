@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ASFoundation'
+  s.name             = 'IWCFoundation'
   s.version          = '0.0.6'
   s.summary          = 'A pod contains common use third party pods and tool classes'
 
