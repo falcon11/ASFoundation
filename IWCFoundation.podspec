@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IWCFoundation'
-  s.version          = '0.0.6'
+  s.version          = '0.0.7'
   s.summary          = 'A pod contains common use third party pods and tool classes'
 
 # This description is used to generate tags and improve search results.
