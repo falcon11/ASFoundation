@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (4.0.1)
   - AFNetworking/UIKit (4.0.1):
     - AFNetworking/NSURLSession
-  - ASFoundation (0.0.5):
+  - ASFoundation (0.0.8):
     - AFNetworking (~> 4.0.1)
     - CocoaLumberjack (~> 3.6.1)
     - CTMediator (~> 32)
@@ -208,7 +208,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  ASFoundation: 0e09e37e056f596b2aa2a774a01b9f294e50006b
+  ASFoundation: 884a6b04fac1ba4689f31dbe989193822c641974
   CocoaLumberjack: b17ae15142558d08bbacf69775fa10c4abbebcc9
   CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a

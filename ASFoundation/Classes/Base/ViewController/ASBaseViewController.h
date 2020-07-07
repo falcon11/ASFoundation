@@ -6,10 +6,19 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BaseViewModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface ASBaseViewController : UIViewController
+
+// MVVM 时使用
+@property (strong, nonatomic) BaseViewModel *viewModel;
+
+- (instancetype)initWithViewModel:(BaseViewModel *)viewModel;
+
+// 需要在适当时调 bindViewModel，做下绑定
+- (void)bindViewModel;
 
 @end
 
