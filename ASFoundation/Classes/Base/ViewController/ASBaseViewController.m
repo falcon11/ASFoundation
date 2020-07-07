@@ -6,6 +6,7 @@
 //
 
 #import "ASBaseViewController.h"
+#import <ReactiveObjC/ReactiveObjC.h>
 
 @interface ASBaseViewController ()
 
@@ -13,9 +14,20 @@
 
 @implementation ASBaseViewController
 
+- (instancetype)initWithViewModel:(BaseViewModel *)viewModel {
+    self = [super init];
+    if (self) {
+        self.viewModel = viewModel;
+    }
+    return self;
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+}
+
+- (void)bindViewModel {
+    RAC(self, title) = RACObserve(self, viewModel.title);
 }
 
 /*

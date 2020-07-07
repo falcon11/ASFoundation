@@ -14,5 +14,6 @@
 
 // Models
 #import "BaseModel.h"
+#import "BaseViewModel.h"
 
 #endif /* Base_h */
