@@ -28,4 +28,7 @@
 // Categories
 #import "ASCategories.h"
 
+// Utilities
+#import "ASUtilities.h"
+
 #endif /* ASFoundation_h */
