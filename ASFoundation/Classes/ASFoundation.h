@@ -20,6 +20,7 @@
 #import <MJRefresh/MJRefresh.h>
 #import <ReactiveObjC/ReactiveObjC.h>
 #import <SDWebImage/SDWebImage.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
 
 // Base
 #import "Base.h"
