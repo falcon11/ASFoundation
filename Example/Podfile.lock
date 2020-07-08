@@ -18,6 +18,7 @@ PODS:
     - AFNetworking (~> 4.0.1)
     - CocoaLumberjack (~> 3.6.1)
     - CTMediator (~> 32)
+    - IQKeyboardManager (~> 6.5)
     - JKCategories (~> 1.9)
     - Masonry (~> 1.1.0)
     - MBProgressHUD (~> 1.2.0)
@@ -34,6 +35,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
+  - IQKeyboardManager (6.5.5)
   - JKCategories (1.9):
     - JKCategories/CoreData (= 1.9)
     - JKCategories/CoreLocation (= 1.9)
@@ -193,6 +195,7 @@ SPEC REPOS:
     - CocoaLumberjack
     - CTMediator
     - FBSnapshotTestCase
+    - IQKeyboardManager
     - JKCategories
     - Kiwi
     - Masonry
@@ -208,10 +211,11 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  ASFoundation: 884a6b04fac1ba4689f31dbe989193822c641974
+  ASFoundation: 43447d9b17d289c9175c7985bd1b41fe1d73090b
   CocoaLumberjack: b17ae15142558d08bbacf69775fa10c4abbebcc9
   CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
   JKCategories: b5240c9f6cd6991cacced4bec47c3f508c7f3f7e
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
