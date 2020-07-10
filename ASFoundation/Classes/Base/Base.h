@@ -16,4 +16,7 @@
 #import "BaseModel.h"
 #import "BaseViewModel.h"
 
+// Localization
+#import "ASLocalization.h"
+
 #endif /* Base_h */
