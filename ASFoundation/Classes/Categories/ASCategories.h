@@ -10,5 +10,7 @@
 
 #import "UIDevice+ASHardware.h"
 #import "UIFont+ASFont.h"
+#import "UIColor+ASColor.h"
+#import "UIView+ASView.h"
 
 #endif /* ASCategories_h */
