@@ -9,27 +9,27 @@
 
 @implementation ASSpace
 
-+ (CGFloat)xxl {
+- (CGFloat)xxl {
     return 30.0f;
 }
 
-+ (CGFloat)xl {
+- (CGFloat)xl {
     return 25.0f;
 }
 
-+ (CGFloat)l {
+- (CGFloat)l {
     return 20.0f;
 }
 
-+ (CGFloat)m {
+- (CGFloat)m {
     return 15.0f;
 }
 
-+ (CGFloat)s {
+- (CGFloat)s {
     return 10.0f;
 }
 
-+ (CGFloat)xs {
+- (CGFloat)xs {
     return 5.0f;
 }
 
