@@ -36,6 +36,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, readonly) UIColor *tertiaryLabelColor;
 @property (nonatomic, readonly) UIColor *quaternaryLabelColor;
 
+/* 反色
+ */
+@property (nonatomic, readonly) UIColor *inverseColor;
+
 /* Foreground color for standard system links.
  */
 @property (nonatomic, readonly) UIColor *linkColor;
