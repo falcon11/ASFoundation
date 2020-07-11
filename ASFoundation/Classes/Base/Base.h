@@ -19,4 +19,9 @@
 // Localization
 #import "ASLocalization.h"
 
+// UIInterface
+#import "ASTheme.h"
+#import "ASFont.h"
+#import "ASSpace.h"
+
 #endif /* Base_h */
