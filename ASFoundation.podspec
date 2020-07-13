@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ASFoundation'
-  s.version          = '0.0.16'
+  s.version          = '0.0.17'
   s.summary          = 'A pod contains common use third party pods and tool classes'
 
 # This description is used to generate tags and improve search results.
@@ -49,4 +49,5 @@ Objective-C iOS project common use third party pods and classes
   s.dependency 'CTMediator', '~> 32'
   s.dependency 'MBProgressHUD', '~> 1.2.0'
   s.dependency 'IQKeyboardManager', '~> 6.5'
+  s.dependency 'QMUIKit', '~> 4.1'
 end

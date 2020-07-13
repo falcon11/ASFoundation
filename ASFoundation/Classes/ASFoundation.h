@@ -21,6 +21,7 @@
 #import <ReactiveObjC/ReactiveObjC.h>
 #import <SDWebImage/SDWebImage.h>
 #import <IQKeyboardManager/IQKeyboardManager.h>
+#import <QMUIKit/QMUIKit.h>
 
 // Base
 #import "Base.h"

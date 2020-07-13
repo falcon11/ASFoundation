@@ -6,11 +6,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <QMUIKit/QMUIKit.h>
 #import "BaseViewModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ASBaseViewController : UIViewController
+@interface ASBaseViewController : QMUICommonViewController
 
 // MVVM 时使用
 @property (strong, nonatomic) BaseViewModel *viewModel;
